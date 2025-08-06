@@ -4,3 +4,6 @@ general.import = [
 
 [font]
 normal = { family = "Terminus", style = "Regular" }
+
+[cursor]
+style = { shape = "Block", blinking = "Always" }
