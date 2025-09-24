@@ -1,0 +1,52 @@
+[font]
+normal = { family = "Liberation Mono", style = "Regular" }
+bold = { style = "Bold" }
+italic = { style = "Italic" }
+bold_italic = { style = "Bold Italic" }
+
+size = 14.0
+
+[cursor]
+style = { shape = "Block", blinking = "Always" }
+blink_interval = 500
+
+# Default colors
+[colors.primary]
+background = '#232627'
+foreground = '#fcfcfc'
+
+dim_foreground = '#eff0f1'
+bright_foreground = '#ffffff'
+
+# Normal colors
+[colors.normal]
+black = '#232627'
+red = '#ed1515'
+green = '#11d116'
+yellow = '#f67400'
+blue = '#1d99f3'
+magenta = '#E699FF'
+cyan = '#1abc9c'
+white = '#fcfcfc'
+
+# Bright colors
+[colors.bright]
+black = '#7f8c8d'
+red = '#c0392b'
+green = '#1cdc9a'
+yellow = '#fdbc4b'
+blue = '#3daee9'
+magenta = '#E699FF'
+cyan = '#16a085'
+white = '#ffffff'
+
+# Dim colors
+[colors.dim]
+black = '#31363b'
+red = '#783228'
+green = '#17a262'
+yellow = '#b65619'
+blue = '#1b668f'
+magenta = '#E699FF'
+cyan = '#186c60'
+white = '#63686d'
