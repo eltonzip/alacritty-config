@@ -1,0 +1,38 @@
+[window]
+dimensions = { columns = 85, lines = 25 }
+
+[font]
+normal = { family = "Liberation Mono", style = "Regular" }
+bold = { style = "Bold" }
+italic = { style = "Italic" }
+bold_italic = { style = "Bold Italic" }
+size = 14.0
+
+[cursor]
+style = { shape = "Block", blinking = "Always" }
+blink_interval = 500
+
+# my own colorscheme:
+[colors.primary]
+foreground  = "#ffffff"
+background  = "#202326"
+
+[colors.normal]
+black    = "#000000"
+red      = "#ed1515"
+green    = "#11d116"
+yellow   = "#fdd300"
+blue     = "#4596ff"
+magenta  = "#ff6923"
+cyan     = "#00ffff"
+white    = "#ffffff"
+
+[colors.bright]
+black    = "#000000"
+red      = "#ed1515"
+green    = "#11d116"
+yellow   = "#fdd300"
+blue     = "#5fd7ff"
+magenta  = "#ff7434"
+cyan     = "#b76eff"
+white    = "#ffffff"
