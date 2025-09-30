@@ -15,7 +15,7 @@ blink_interval = 500
 # my own colorscheme:
 [colors.primary]
 foreground  = "#ffffff"
-background  = "#000000"
+background  = "#002b36"
 
 [colors.normal]
 black    = "#1e1e1e"
@@ -31,8 +31,8 @@ white    = "#ffffff"
 black    = "#5e5e5e"
 red      = "#ed1515"
 green    = "#11d116"
-yellow   = "#0ff000"
+yellow   = "#fffb29"
 blue     = "#5fd7ff"
-magenta  = "#fffb29"
+magenta  = "#0ff000"
 cyan     = "#c78fff"
 white    = "#ffffff"
