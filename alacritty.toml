@@ -2,11 +2,10 @@
 dimensions = { columns = 85, lines = 25 }
 
 [font]
-normal = { family = "Liberation Mono", style = "Regular" }
+normal = { family = "Terminus", style = "Regular" }
 bold = { style = "Bold" }
 italic = { style = "Italic" }
 bold_italic = { style = "Bold Italic" }
-size = 14.0
 
 [cursor]
 style = { shape = "Block", blinking = "Always" }
@@ -15,7 +14,7 @@ blink_interval = 500
 # my own colorscheme:
 [colors.primary]
 foreground  = "#ffffff"
-background  = "#002b36"
+background  = "#003644"
 
 [colors.normal]
 black    = "#1e1e1e"
